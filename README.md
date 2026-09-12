@@ -101,7 +101,7 @@ Someone recognises the person and submits a photo through the public portal (no 
 
 When an admin clicks **All Cases**, they can view submitted cases, search, filter, and manage case records. Edit or delete cases as needed.
 
-![All Cases - Case Management](./assets/screenshots/view_submitted_cases.png)
+![image alt](https://github.com/AkashCNazre-tech/AI-Based-Missing-Person-Finder/blob/00b4bf0cf30439bec339453ad9e4807312b68690/Screenshot%202026-09-12%20190356.png)
 
 ---
 
