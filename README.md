@@ -82,7 +82,7 @@ Hundreds of people — mostly children — go missing every day in India. When a
 
 A family in Haridwar reports their child missing. An officer opens the portal, uploads a photo, and the AI immediately detects the face and extracts a 468-point mesh — no manual tagging needed.
 
-<img src="./assets/screenshots/register_new_case.png" alt="Register New Case — face detected with bounding box" width="700"/>
+<img src="./assets/screenshots/all_cases.png" alt="Register New Case — face detected with bounding box" width="700"/>
 
 ---
 
@@ -90,7 +90,7 @@ A family in Haridwar reports their child missing. An officer opens the portal, u
 
 The officer's home screen shows live counts of found and not-found cases, and a map that plots where cases are concentrated across India.
 
-<img src="./assets/screenshots/homepage.png" alt="Officer dashboard with case counts and India map" width="700"/>
+<img src="./assets/screenshots/dashboard.png" alt="Officer dashboard with case counts and India map" width="700"/>
 
 ---
 
@@ -100,7 +100,7 @@ Someone recognises the person and submits a photo through the public portal (no 
 
 When an admin clicks **Match Cases**, the KNN model compares all sightings against all open cases. If a face is close enough, the case is automatically flipped to **Found** and the complainant is notified by email.
 
-<img src="./assets/screenshots/view_cases.png" alt="View cases — Found status with sighting location and submitter details" width="700"/>
+<img src="./assets/screenshots/match_cases.png" alt="View cases — Found status with sighting location and submitter details" width="700"/>
 
 ---
 
@@ -108,7 +108,7 @@ When an admin clicks **Match Cases**, the KNN model compares all sightings again
 
 Admins can see which cities have the most unresolved cases and track resolution rates over time.
 
-<img src="./assets/screenshots/cases_by_city.png" alt="Cases by city — India map with city summary table" width="700"/>
+<img src="./assets/screenshots/analytics_map.png" alt="Cases by city — India map with city summary table" width="700"/>
 
 ---
 
