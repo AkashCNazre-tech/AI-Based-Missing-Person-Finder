@@ -82,7 +82,7 @@ Hundreds of people — mostly children — go missing every day in India. When a
 
 A family in Haridwar reports their child missing. An officer opens the portal, uploads a photo, and the AI immediately detects the face and extracts a 468-point mesh — no manual tagging needed.
 
-![Register New Case - Face Detection](./assets/screenshots/register_new_case.png)
+![image alt]([./assets/screenshots/register_new_case.png](https://github.com/AkashCNazre-tech/AI-Based-Missing-Person-Finder/blob/e1c4f0c842890a27d3a55ba56707365646c5d266/Screenshot%202026-09-12%20185823.png))
 
 ---
 
