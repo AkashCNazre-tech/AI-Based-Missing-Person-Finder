@@ -12,6 +12,18 @@
 
 ---
 
+> **Project Status:** ✅ **VERIFIED & WORKING** 
+> 
+> This project has been tested and verified to work with:
+> - Python 3.14
+> - Streamlit 1.63.0
+> - MediaPipe Face Landmarker
+> - SQLModel + SQLite Database
+>
+> **Live at:** http://localhost:8501
+
+---
+
 > **Disclaimer**
 >
 > All images of individuals appearing in the screenshots and used as sample data in this project were sourced from the internet solely for the purpose of demonstrating the facial recognition pipeline in a non-commercial, educational context. These images are the property of their respective owners. No claim of ownership is made. If you are the rights holder of any image and wish it to be removed, please open an issue and it will be taken down promptly.
@@ -22,6 +34,7 @@
 
 ## Table of Contents
 
+- [Quick Start](#quick-start)
 - [The Problem](#the-problem)
 - [A Case, Start to Finish](#a-case-start-to-finish)
 - [How It Works](#how-it-works)
@@ -31,6 +44,29 @@
 - [Seeding Demo Data](#seeding-demo-data)
 - [Tech Stack](#tech-stack)
 - [FAQ](#faq)
+
+---
+
+## Quick Start
+
+### ⚡ Get Running in 3 Steps
+
+```bash
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. Navigate to project folder
+cd Finding-missing-person-using-AI-master
+
+# 3. Run the application
+streamlit run Home.py
+```
+
+**Then open:** http://localhost:8501
+
+**Login with:**
+- Username: `gagan`
+- Password: `abc`
 
 ---
 
