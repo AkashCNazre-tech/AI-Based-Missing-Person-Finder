@@ -82,7 +82,7 @@ Hundreds of people — mostly children — go missing every day in India. When a
 
 A family in Haridwar reports their child missing. An officer opens the portal, uploads a photo, and the AI immediately detects the face and extracts a 468-point mesh — no manual tagging needed.
 
-<img src="./assets/screenshots/all_cases.png" alt="Register New Case — face detected with bounding box" width="700"/>
+![Register New Case - Face Detection](./assets/screenshots/register_new_case.png)
 
 ---
 
@@ -90,7 +90,7 @@ A family in Haridwar reports their child missing. An officer opens the portal, u
 
 The officer's home screen shows live counts of found and not-found cases, and a map that plots where cases are concentrated across India.
 
-<img src="./assets/screenshots/dashboard.png" alt="Officer dashboard with case counts and India map" width="700"/>
+![Dashboard - Case Overview](./assets/screenshots/dashboard.png)
 
 ---
 
@@ -98,17 +98,19 @@ The officer's home screen shows live counts of found and not-found cases, and a 
 
 Someone recognises the person and submits a photo through the public portal (no login required). The same face mesh is extracted and stored.
 
-When an admin clicks **Match Cases**, the KNN model compares all sightings against all open cases. If a face is close enough, the case is automatically flipped to **Found** and the complainant is notified by email.
+When an admin clicks **All Cases**, they can view submitted cases, search, filter, and manage case records. Edit or delete cases as needed.
 
-<img src="./assets/screenshots/match_cases.png" alt="View cases — Found status with sighting location and submitter details" width="700"/>
+![All Cases - Case Management](./assets/screenshots/view_submitted_cases.png)
 
 ---
 
-**Step 4 — The city map tells the bigger picture.**
+**Step 3 — Matching & Analytics**
 
-Admins can see which cities have the most unresolved cases and track resolution rates over time.
+Admins can trigger the **Match Cases** function to run the KNN algorithm, comparing all sightings against registered missing persons. When matches are found, cases are automatically updated and notifications are sent.
 
-<img src="./assets/screenshots/analytics_map.png" alt="Cases by city — India map with city summary table" width="700"/>
+The **Map** page displays case distribution by city across India, helping prioritize investigation resources.
+
+![Analytics Map - Case Distribution](./assets/screenshots/analytics_map.png)
 
 ---
 
