@@ -105,13 +105,13 @@ When an admin clicks **All Cases**, they can view submitted cases, search, filte
 
 ---
 
-**Step 3 — Matching & Analytics**
+**Step 4 — Matching & Analytics**
 
 Admins can trigger the **Match Cases** function to run the KNN algorithm, comparing all sightings against registered missing persons. When matches are found, cases are automatically updated and notifications are sent.
 
 The **Map** page displays case distribution by city across India, helping prioritize investigation resources.
 
-![Analytics Map - Case Distribution](./assets/screenshots/analytics_map.png)
+![iamge alt](https://github.com/AkashCNazre-tech/AI-Based-Missing-Person-Finder/blob/dce91889a92012e4cf20c620986b180081f9ce49/Screenshot%202026-09-12%20195304.png)
 
 ---
 
