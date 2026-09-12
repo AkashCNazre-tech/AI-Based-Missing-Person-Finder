@@ -90,7 +90,8 @@ A family in Haridwar reports their child missing. An officer opens the portal, u
 
 The officer's home screen shows live counts of found and not-found cases, and a map that plots where cases are concentrated across India.
 
-![Dashboard - Case Overview](./assets/screenshots/dashboard.png)
+![image alt](https://github.com/AkashCNazre-tech/AI-Based-Missing-Person-Finder/blob/e1c4f0c842890a27d3a55ba56707365646c5d266/Screenshot%202026-09-12%20185823.png)
+
 
 ---
 
